@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./Options.module.css";
+import styles from "./Option.module.css";
 import { useState } from "react";
 
 const Options = ({ updateFeedback, resetFeedback, totalFeedback }) => {
